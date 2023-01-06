@@ -7,4 +7,5 @@ The dataset utalized includes features that can be used to predict which patient
 are most likely to suffer heart disease in the near future. 
 Our goal was to develop a machine-learning model that can predict people's 
 likelihood of experiencing heart disease based on their statistics. 
-We began with a thorough data analysis, then started developing predictive models. 
+
+This code includes the Data Analysis we conducted on the dataset as well as a few simple predictive models we attempted. 
